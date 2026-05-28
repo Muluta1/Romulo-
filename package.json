@@ -1,0 +1,23 @@
+{
+  "name": "finanpro",
+  "version": "1.0.0",
+  "description": "FinanPro - Controle financeiro pessoal profissional",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "finance",
+    "budget",
+    "financial-control",
+    "pwa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {}
+}
